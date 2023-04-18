@@ -5,6 +5,8 @@ import Home from "./Componenets/Home";
 import "./styles/App.scss"
 import "./styles/header.scss"
 import "./styles/home.scss"
+import "./styles/footer.scss"
+import Footer from "./Componenets/Footer";
 
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
       <Route path = "/" element = {<Home/>}>
       </Route>
     </Routes>
+    <Footer />
    </Router>
   );
 }
