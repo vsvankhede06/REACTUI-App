@@ -7,7 +7,7 @@ const Header = () => {
   return  (
     <nav>
         <h1>
-            cryster
+        lobster
         </h1>
         <main>
             <HashLink to={"/#home"}>Home</HashLink>

@@ -10,7 +10,7 @@ const Home = () => {
             <div className='home' id = 'home'>
                 <main>
                     <h1>
-                        Cryster
+                    lobster
                     </h1>
                     <p>
                         Solution to all your problems
